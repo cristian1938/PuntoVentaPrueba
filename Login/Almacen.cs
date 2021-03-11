@@ -78,7 +78,7 @@ namespace Login
 
         private void txtBuscarNombre_TextChanged(object sender, EventArgs e)
         {
-
+            //....
         }
     }
 }
